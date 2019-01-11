@@ -1,0 +1,51 @@
+#EXTM3U
+ 
+#EXTINF: -1 channel-id = "255" tvg-id = "TNT (1080)."
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/14844.ts
+ 
+ 
+#EXTINF: -1 channel-id = "258" tvg-id = "TNT Series [1080]
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/75926.ts
+ 
+#EXTINF: -1 channel-id = "261" tvg-id = "Studio Universal (1080)."
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/14845.ts
+ 
+#EXTINF: -1 channel-id = "263" tvg-id = "Warner Channel [1080]
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/75911.ts
+ 
+ 
+#EXTINF: -1 channel-id = "270" tvg-id = "Boomerang (1080)"
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/14869.ts
+ 
+ 
+#EXTINF: -1 channel-id = "269" tvg-id = "Baby TV"
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/15084.ts
+ 
+ 
+#EXTINF: -1 channel-id = "272" tvg-id = "Cartoon Network (1080)"
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/14868.ts
+ 
+#EXTINF: -1 channel-id = "284" tvg-id = "Disney Channel [1080]
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/92723.ts
+ 
+#EXTINF: -1 channel-id = "310" tvg-id = "Nickelodeon (1080)"
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/14870.ts
+ 
+#EXTINF: -1 channel-id = "322" tvg-id = "PLANET ANIMAL [1080
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/96388.ts
+ 
+#EXTINF: -1 channel-id = "329" tvg-id = "CANAL DE DESCUBRIMIENTO [1080
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/96385.ts
+ 
+ 
+#EXTINF: -1 channel-id = "338" tvg-id = "DISCOVERY HOME & HEAT [1080]
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/102906.ts
+ 
+#EXTINF: -1 channel-id = "341" tvg-id = "DISCOVERY TURBO [1080]
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/102909.ts
+ 
+#EXTINF: -1 channel-id = "344" tvg-id = "CANAL DE HISTORIA [1080
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/96391.ts
+ 
+#EXTINF: -1 channel-id = "351" tvg-id = "H2 [1080]
+http://tv.latintvweb.com:25461/live/reyesmaldonado19/w6Nt9pHtC0/92382.ts
